@@ -1,0 +1,11 @@
+title: Cameron Way
+description: Full Stack Developer
+theme: minima
+url: "https://cway14.github.io"
+
+minima:
+  header_pages:
+    - index.md
+    - resume.md
+    - projects.md
+    - blog.md
